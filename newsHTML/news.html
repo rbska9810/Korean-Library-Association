@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>협회소식</title>
+  <link rel="stylesheet" href="../css/reset.css">
+  <link rel="stylesheet" href="../css/hdft.css">
+  <link rel="stylesheet" href="../css/news.css">
+  <link rel="stylesheet" href="../css/responsive.css">
+</head>
+
+<body>
+  <header class="header">
+    <ul>
+      <li><a href="#">로그인</a></li>
+      <li><a href="#">ID/PW 찾기</a></li>
+      <li><a href="#">회원가입</a></li>
+      <li><a href="#">회원문의</a></li>
+    </ul>
+  </header>
+  <nav class="nav">
+    <div class="logo">
+      <a href="../index.html" target="_blank">
+        <img src="../images/logo/main-logo.svg" alt="logo">
+      </a>
+    </div>
+    <ul class="gnb">
+      <li>
+        <a href="#">협회안내</a>
+        <ul class="sub-menu">
+          <li><a href="#">협회소개</a></li>
+          <li><a href="#">회장 인사말</a></li>
+          <li><a href="../historyHTML/history.html" target="_blank">연혁</a></li>
+          <li><a href="#">역대회장</a></li>
+          <li><a href="#">조직</a></li>
+          <li><a href="#">상징</a></li>
+          <li><a href="#">찾아오시는길</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">회원안내</a>
+        <ul class="sub-menu">
+          <li><a href="#">회원현황</a></li>
+          <li><a href="#">회원가입</a></li>
+          <li><a href="#">회원소개</a></li>
+          <li><a href="#">회비납입 안내</a></li>
+          <li><a href="#">회원동정</a></li>
+          <li><a href="#">회원문의</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">주요사업</a>
+        <ul class="sub-menu">
+          <li><a href="#">자체사업</a></li>
+          <li><a href="#">국고사업</a></li>
+          <li><a href="#">용역사업</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">주요소식</a>
+        <ul class="sub-menu">
+          <li><a href="news.html" target="_blank">협회소식</a></li>
+          <li><a href="#">도서관계 소식</a></li>
+          <li><a href="#">도서관 뉴스</a></li>
+          <li><a href="#">성명서·입장문</a></li>
+          <li><a href="#">협회 보도자료</a></li>
+          <li><a href="#">사무국일지</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">커뮤니티</a>
+        <ul class="sub-menu">
+          <li><a href="#">부회·협의회</a></li>
+          <li><a href="#">전문위원회</a></li>
+          <li><a href="#">교육기관</a></li>
+          <li><a href="#">관련 학회</a></li>
+          <li><a href="#">취업안내</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#">자료실</a>
+        <ul class="sub-menu">
+          <li><a href="#">도서관문화</a></li>
+          <li><a href="#">도서관 연감</a></li>
+          <li><a href="#">용어사전</a></li>
+          <li><a href="#">참고자료</a></li>
+          <li><a href="#">법령자료</a></li>
+          <li><a href="#">사진자료</a></li>
+          <li><a href="#">영상자료</a></li>
+        </ul>
+      </li>
+      <div class="site-map">
+        <ul class="site-map-login">
+          <li><a href="#">로그인</a></li>
+          <li><a href="#">ID/PW 찾기</a></li>
+          <li><a href="#">회원가입</a></li>
+          <li><a href="#">회원문의</a></li>
+        </ul>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">협회안내</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="#">협회소개</a></li>
+            <li><a href="#">회장 인사말</a></li>
+            <li><a href="../historyHTML/history.html" target="_blank">연혁</a></li>
+            <li><a href="#">역대회장</a></li>
+            <li><a href="#">조직</a></li>
+            <li><a href="#">상징</a></li>
+            <li><a href="#">찾아오시는길</a></li>
+          </ul>
+        </div>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">회원안내</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="#">회원현황</a></li>
+            <li><a href="#">회원가입</a></li>
+            <li><a href="#">회원소개</a></li>
+            <li><a href="#">회비납입 안내</a></li>
+            <li><a href="#">회원동정</a></li>
+            <li><a href="#">회원문의</a></li>
+          </ul>
+        </div>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">주요사업</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="#">자체사업</a></li>
+            <li><a href="#">국고사업</a></li>
+            <li><a href="#">용역사업</a></li>
+          </ul>
+        </div>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">주요소식</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="news.html" target="_blank">협회소식</a></li>
+            <li><a href="#">도서관계 소식</a></li>
+            <li><a href="#">도서관 뉴스</a></li>
+            <li><a href="#">성명서·입장문</a></li>
+            <li><a href="#">협회 보도자료</a></li>
+            <li><a href="#">사무국일지</a></li>
+          </ul>
+        </div>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">커뮤니티</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="#">부회·협의회</a></li>
+            <li><a href="#">전문위원회</a></li>
+            <li><a href="#">교육기관</a></li>
+            <li><a href="#">관련 학회</a></li>
+            <li><a href="#">취업안내</a></li>
+          </ul>
+        </div>
+        <div class="title-parent">
+          <a href="#" class="site-map-title">자료실</a>
+          <button class="site-map-btn">
+            <span></span>
+            <span></span>
+          </button>
+          <ul class="site-map-item">
+            <li><a href="#">도서관문화</a></li>
+            <li><a href="#">도서관 연감</a></li>
+            <li><a href="#">용어사전</a></li>
+            <li><a href="#">참고자료</a></li>
+            <li><a href="#">법령자료</a></li>
+            <li><a href="#">사진자료</a></li>
+            <li><a href="#">영상자료</a></li>
+          </ul>
+        </div>
+      </div>
+    </ul>
+    <div class="trigger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+  <main class="news-main">
+    <h6>Association news</h6>
+    <h2>협회소식</h2>
+  </main>
+
+  <section class="association">
+    <div class="inner association-inner">
+
+
+      <div class="association-top">
+        <div class="association-total"></div>
+        <div class="association-search">
+          <form>
+            <select>
+              <option>제목</option>
+              <option>내용</option>
+              <option>제목+내용</option>
+            </select>
+            <input type="search" placeholder="검색어를 입력해주세요">
+            <input type="submit" value="검색">
+            <select>
+              <option>10건씩 보기</option>
+              <option>20건씩 보기</option>
+              <option>30건씩 보기</option>
+            </select>
+            <button>적용</button>
+          </form>
+        </div>
+      </div>
+
+
+      <ul class="association-items">
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[공고] 한국도서관협회 사무총장 채용 공고(공고 제2024-01호(2024.01.02))</h3>
+            <p>24-01-02</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img01.png" alt="img">
+            <h3>[동향] 도서관계 현안 해결 요구를 위한 문화체육관광부 관계자 면담 추진(2023.12.28.)</h3>
+            <p>23-12-29</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img02.png" alt="img">
+            <h3>[발표] 도서관 현장의 지적자유 침해 사례 파악 설문조사 결과 발표·도서관 지적자유창구 협회 홈페이지 개설 및 활용 안내</h3>
+            <p>23-12-28</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img03.png" alt="img">
+            <h3>[안내]한국도서관협회장상(2023) 수상자 명단</h3>
+            <p>23-12-13</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img04.png" alt="img">
+            <h3>[발표] 2024 도서관의 날·도서관주간 공식주제 공모전 당선작 발표 및 기프티콘 지급 이벤트 당첨자 안내</h3>
+            <p>2023-12-08</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img05.png" alt="img">
+            <h3>[공지] 2023년 한국도서관협회-자생의료재단 및 자생한방병원 업무협약에 따른 회원 혜택 안내</h3>
+            <p>23-12-05</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img06.png" alt="img">
+            <h3>[공지] 한국도서관협회 회원 정보 갱신 및 부가서비스 도입을 위한 수신 동의 협조 요청</h3>
+            <p>23-12-05</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img07.png" alt="img">
+            <h3>[안내] 2023년 한국도서관협회-자생의료재단 및 자생한방병원 업무협약 체결 안내</h3>
+            <p>23-12-05</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>부산광역시 부산진구 공공도서관 민간 위탁 시도 관련 대응 경과 보고</h3>
+            <p>23-12-04</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img09.png" alt="img">
+            <h3>[공고] 한국도서관협회 계약직 연구원 채용공고(-12/15)</h3>
+            <p>23-12-04</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img10.png" alt="img">
+            <h3>[투표 참여 요청] 2024 도서관의 날·도서관주간 공식주제 공모전 대국민 선호도 투표 참여 안내(~2023/12/5 화)</h3>
+            <p>23-11-29</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img11.png" alt="img">
+            <h3>[안내] 제56회(2024년) 한국도서관상 수상후보자 추천 안내</h3>
+            <p>23-11-28</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img12.jpg" alt="img">
+            <h3>한국도서관협회 2023년 추계워크숍 개최 안내</h3>
+            <p>23-11-28</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img13.png" alt="img">
+            <h3>2023년 도서관 지혜학교 사업 마무리 워크숍 개최 안내</h3>
+            <p>23-11-16</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img14.jpg" alt="img">
+            <h3>한국도서관협회 중장기(2024~2028) 종합발전계획 수립을 위한 사전 의견조사</h3>
+            <p>23-11-16</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img15.png" alt="img">
+            <h3>[모집] 2024 도서관의 날·도서관주간 공식주제 공모전 신청 안내(~2023/11/22 수)</h3>
+            <p>23-11-08</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img16.png" alt="img">
+            <h3>[안내] 2023년 한국도서관협회장상 수상후보자 추천요청(~11/24)</h3>
+            <p>23-11-08</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img17.jpg" alt="img">
+            <h3>2023년 공공도서관 건립·운영 활성화 지원 사업 권역별 담당자 교육 안내</h3>
+            <p>23-11-07</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[안내] 이현주 前 사무총장, 2023 문화예술발전 유공 옥관 문화훈장 수상</h3>
+            <p>23-10-27</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img19.png" alt="img">
+            <h3>[안내] '국채보상운동: 한국의 기억에서 세계의 기록으로 2023' 국제학술대회 개최</h3>
+            <p>23-10-23</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[모집] 2023년 시니어금융교육협의회와 함께하는 시니어디지털금융교육(하반기 3차) 신청 안내(~10/31)</h3>
+            <p>23-10-13</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img21.png" alt="img">
+            <h3>도서관 현장의 지적자유 침해 사례 파악 설문조사 참여 요청 / 최근 이슈 및 우선 대응방침 정리 (~10/31)</h3>
+            <p>23-10-06</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img22.png" alt="img">
+            <h3>도서관 「4050 중장년 독서 살롱」 9월 활동 및 주제도서</h3>
+            <p>23-09-27</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img23.jpg" alt="img">
+            <h3>2023년 사무국 추석 연휴 휴무 안내</h3>
+            <p>23-09-25</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img24.png" alt="img">
+            <h3>[안내] 2023 이병목 참사서상 수상자 안내</h3>
+            <p>23-09-22</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img25.png" alt="img">
+            <h3>2023 제60회 전국도서관대회와 함께하는 제주올레 트레킹 안내</h3>
+            <p>23-09-19</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img26.png" alt="img">
+            <h3>부산광역시 부산진구 공공도서관 민간 위탁 반대 공동성명서(2023. 9. 14.)</h3>
+            <p>23-09-14</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img27.png" alt="img">
+            <h3>도서관 「4050 중장년 독서 살롱」 8월 활동 및 주제도서</h3>
+            <p>23-09-07</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img28.png" alt="img">
+            <h3>[안내] 제60회 전국도서관대회·전시회 제주공공도서관 단체 탐방 신청(조기마감)</h3>
+            <p>23-09-06</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img29.png" alt="img">
+            <h3>[모집] 2023년 과학도서 독서프로그램 워크숍 운영 및 신청 안내(~9/14)</h3>
+            <p>23-09-05</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img30.png" alt="img">
+            <h3>제60회 전국도서관대회·전시회 대학생 자원봉사자 모집 공고</h3>
+            <p>23-09-04</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>제9회 금서읽기주간 캠페인 및 포스터 신청 안내</h3>
+            <p>23-08-29</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img32.jpg" alt="img">
+            <h3>제60회 전국도서관대회 ·전시회 홍보 동영상(참가)</h3>
+            <p>23-08-22</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>한국도서관협회 창립 78주년 안내</h3>
+            <p>23-08-18</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>제60회 전국도서관 대회·전시회 기념 개인회원 가입 이벤트 안내</h3>
+            <p>23-08-07</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[공지] 2023년 이병목 참사서상 공모 안내(~9/8)</h3>
+            <p>23-08-10</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img36.jpg" alt="img">
+            <h3>제60회 전국도서관대회·전시회 개최 안내</h3>
+            <p>23-08-10</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[보도자료] 한국도서관협회, 도서관에 대한 일체의 검열 반대와 지적 자유 수호를 위한 성명서 발표</h3>
+            <p>23-08-04</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img38.png" alt="img">
+            <h3>[모집] 2023년 큰글자책 및 안내판넬 보급 신청 안내(~8/23)</h3>
+            <p>23-08-02</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[안내] 제60회 전국도서관대회･전시회 포스터세션 참가 신청 안내(~9/8)</h3>
+            <p>23-07-24</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img40.png" alt="img">
+            <h3>곽승진 제31대 한국도서관협회장 취임사</h3>
+            <p>23-07-12</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img41.png" alt="img">
+            <h3>남영준 제30대 한국도서관협회장 이임사</h3>
+            <p>23-07-12</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[안내]한국도서관협회 설립 및 협회비 납부에 관한 법적 근거</h3>
+            <p>17-12-26</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>한국도서관협회 도서관연구소 계약직 연구원 서류전형 결과 공고(한국도서관협회 공고 제2023-05-01호(2023.12.19.)…</h3>
+            <p>23-12-19</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[동향] 한국도서관협회 2023년 제4차 이사회 회의 개최</h3>
+            <p>23-12-12</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[동향] 기획정책위원회 2023년 제2차 회의</h3>
+            <p>23-12-12</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img46.png" alt="img">
+            <h3>2023년 도서관 「길 위의 인문학」 사업 담당자 2차 워크숍 개최 안내 및 참가신청</h3>
+            <p>23-08-16</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>(과학자들의 재능기부 도서관 과학 강연)10월의 하늘' 행사 모집 안내</h3>
+            <p>23-08-11</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[모집] 2023년 시니어금융교육협의회와 함께하는 시니어디지털금융교육(하반기 2차) 신청 안내(~8/15)</h3>
+            <p>23-08-02</p>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="item">
+            <img src="../images/newsHtmlImg/img00.jpg" alt="img">
+            <h3>[안내] 2023년 한국도서관협회 판매 도서 목록</h3>
+            <p>23-08-02</p>
+          </a>
+        </li>
+      </ul>
+
+      <div class="pagenation">
+        <ol id="numbers">
+          <!--           <li><a href="#">0</a></li>
+          <li><a href="#">0</a></li>
+          <li><a href="#">0</a></li>
+          <li><a href="#">0</a></li>
+          <li><a href="#">0</a></li> -->
+        </ol>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+  <footer class="footer">
+    <div id="bottom" class="footer-top">
+      <div class="inner footer-inner">
+        <a href="#">개인정보 처리방침</a>
+        <form>
+          <select>
+            <option>
+              관련사이트
+            </option>
+            <option>
+              <a href="#">도서관메일링리스트</a>
+            </option>
+            <option>
+              <a href="#">사서e마을</a>
+            </option>
+            <option>
+              <a href="#">국가도서관통계시스템</a>
+            </option>
+            <option>
+              <a href="#">한국문헌정보학회</a>
+            </option>
+            <option>
+              <a href="#">한국도서관·정보학회</a>
+            </option>
+            <option>
+              <a href="#">한국정보관리학회</a>
+            </option>
+            <option>
+              <a href="#">한국비블리아학회</a>
+            </option>
+            <option>
+              <a href="#">한국서지학회</a>
+            </option>
+          </select>
+        </form>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="inner footer-inner">
+        <p>한국도서관협회 (06579) 서울특별시 서초구 반포대로 201(반포동) 국립중앙도서관 자료보존관 1층 한국도서관협회</p>
+        <p>대표전화 : 02-535-4868 자격증 : 02-537-6117 도서구매 : 02-736-0640(경제서적) 팩스 : (02)535-5616</p>
+        <p>Copyright(c) 2021 BY 한국도서관협회. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../js/hdft.js"></script>
+  <script src="../js/news.js"></script>
+</body>
+
+</html>
