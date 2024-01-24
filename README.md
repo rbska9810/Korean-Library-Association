@@ -28,7 +28,7 @@
 
 | 섹션1 : 메인비주얼                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| <img src= "https://private-user-images.githubusercontent.com/152961789/299141315-9b8b9064-3b64-43b0-a325-a4ac4e6ec904.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNTczMTYsIm5iZiI6MTcwNjA1NzAxNiwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQxMzE1LTliOGI5MDY0LTNiNjQtNDNiMC1hMzI1LWE0YWM0ZTZlYzkwNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMDQzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTIwMDE3NDRjYjgxYjBhODkxZDgyMjZjYmIwZWQ2MzNhMTg0MjBiM2QwZGZmOWVlOGNlMmM4Nzk1YmU5MDdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NkSt3HNdHc-FauavsEdv_yoy-QEwNZgHjW8HLxUaT2E"> |
+| <img src= "https://private-user-images.githubusercontent.com/152961789/299141315-9b8b9064-3b64-43b0-a325-a4ac4e6ec904.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE2MDQsIm5iZiI6MTcwNjA2MTMwNCwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQxMzE1LTliOGI5MDY0LTNiNjQtNDNiMC1hMzI1LWE0YWM0ZTZlYzkwNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU1MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODQyMWVmODVhNWQyMjkyMWYwZDExNjE0MDQ0NzE1MWU5ZGUxZjhmM2YwNjViMTJlYzQwZTM4MWRjM2E1Mjg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mXWvr463EKRi7Ug3bwYL7BIIGvYhnua7etxEGF6-M0Q"> |
 
 | 딱딱함을 약간 줄이기 위해 메인에 있는 글귀에 타이핑하는 모션을 주었습니다.
 
@@ -86,6 +86,5 @@
 
 - [브레인 스토밍][(https://www.figma.com/file/oBwENj8ztJ16EG1kEIcWfQ/SeaLifeBusan_BrainStorming?type=whiteboard&node-id=0%3A1&t=MtGvKwQ1gnpEXTrR-1)](https://www.figma.com/file/ZxMTA65g3AHpps8madhEzo/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=7kQcNFmVooZpVx2K-1)
 
-- [와이어프레임 및 디자인][(https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1)](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1
-
-- [리뉴얼 사이트]([https://isabella-kim.github.io/SeaLifeBusanRenewal](https://rbska9810.github.io/project02/)https://rbska9810.github.io/project02/)
+- [와이어프레임 및 디자인][(https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1)](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)
+- [리뉴얼 사이트][([https://isabella-kim.github.io/SeaLifeBusanRenewal](https://rbska9810.github.io/project02/)https://rbska9810.github.io/project02/)](https://rbska9810.github.io/project02/)https://rbska9810.github.io/project02/
