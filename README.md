@@ -33,7 +33,7 @@
 
 | 섹션1 : 메인비주얼                                                                                                      |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| ![busanMain](https://github.com/Isabella-Kim/SeaLifeBusanRenewal/assets/139948934/d488b702-c85d-4d82-a76d-cd93c4069ac1) |
+| <img src= "https://private-user-images.githubusercontent.com/152961789/299141315-9b8b9064-3b64-43b0-a325-a4ac4e6ec904.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNTczMTYsIm5iZiI6MTcwNjA1NzAxNiwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQxMzE1LTliOGI5MDY0LTNiNjQtNDNiMC1hMzI1LWE0YWM0ZTZlYzkwNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMDQzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NTIwMDE3NDRjYjgxYjBhODkxZDgyMjZjYmIwZWQ2MzNhMTg0MjBiM2QwZGZmOWVlOGNlMmM4Nzk1YmU5MDdlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NkSt3HNdHc-FauavsEdv_yoy-QEwNZgHjW8HLxUaT2E"> |
 
 | 화려하고 시선을 이끄는 이미지들을 활용한 와이드샷 이미지를 배경슬라이드로 사용합니다. 바닐라 슬라이드로 제작되었으며 이미지 슬라이드, 텍스트 슬라이드 총 두 가지의 슬라이드가 각각 정확한 타이밍에 작동되고 있습니다.
 
