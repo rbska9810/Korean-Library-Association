@@ -87,4 +87,4 @@
 - [브레인 스토밍][(https://www.figma.com/file/oBwENj8ztJ16EG1kEIcWfQ/SeaLifeBusan_BrainStorming?type=whiteboard&node-id=0%3A1&t=MtGvKwQ1gnpEXTrR-1)](https://www.figma.com/file/ZxMTA65g3AHpps8madhEzo/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=7kQcNFmVooZpVx2K-1)
 
 - [와이어프레임 및 디자인][(https://www.figma.com/file/z1aPqEK3Z926sfrsXhoomu/SeaLifeBusan_Renewal?type=design&node-id=0%3A1&mode=design&t=aPTFUGLy2yzJkINf-1)](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)
-- [리뉴얼 사이트][([https://isabella-kim.github.io/SeaLifeBusanRenewal](https://rbska9810.github.io/project02/)https://rbska9810.github.io/project02/)]
+- [리뉴얼 사이트][(https://rbska9810.github.io/project02/)](https://rbska9810.github.io/project02/)
