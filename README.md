@@ -10,6 +10,12 @@
 - 메인 페이지에서 홈페이지가 제공하는 다양한 정보들을 효율적으로 배치하기 위해 슬라이드, 탭 메뉴 등 동적 효과를 부여하고 있습니다.
 - 메인페이지와 두 개의 서브페이지(협회소식, 연혁)로 구성되어있습니다.
 
+## 🚀 링크
+
+- [브레인 스토밍](https://www.figma.com/file/ZxMTA65g3AHpps8madhEzo/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=7kQcNFmVooZpVx2K-1)
+
+- [와이어프레임 및 디자인](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)
+- [리뉴얼 사이트](https://rbska9810.github.io/project02/) <br>
 ## 💻 개발 환경
 
 - 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
@@ -81,10 +87,3 @@
 | <img src="https://private-user-images.githubusercontent.com/152961789/299145709-89b1a851-894d-458d-bf43-1b89c3aff4b0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNTg5MDgsIm5iZiI6MTcwNjA1ODYwOCwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ1NzA5LTg5YjFhODUxLTg5NGQtNDU4ZC1iZjQzLTFiODljM2FmZjRiMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTEwMDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YzRmYzA3ZjMwMmQzZDIzNGRkY2FiMTA1OGY3ZjdmNGViYTgxNDI3MTc1NjZjODJmM2JjNWU5NGFjNGVjOGZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.97Evi2wCEvi4rHrTj_puH1_WSlHs6hZzfuefEQ49pJk"> |
 
 | 년도 별로 스크롤 이벤트를 넣으면 좋을 것 같다 생각하여 스크롤을 했을 때 특정 구역으로 스크롤이 위치하게 되면 클래스가 추가,제거되도록 작업하였습니다.
-
-## 🚀 링크
-
-- [브레인 스토밍](https://www.figma.com/file/ZxMTA65g3AHpps8madhEzo/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=7kQcNFmVooZpVx2K-1)
-
-- [와이어프레임 및 디자인](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)
-- [리뉴얼 사이트](https://rbska9810.github.io/project02/)
