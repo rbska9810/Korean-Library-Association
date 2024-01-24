@@ -36,7 +36,7 @@
 | :---------------------------------------------------------------------------------------------------------------------- |
 | <img src= "https://private-user-images.githubusercontent.com/152961789/299141315-9b8b9064-3b64-43b0-a325-a4ac4e6ec904.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDYwNjE2MDQsIm5iZiI6MTcwNjA2MTMwNCwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQxMzE1LTliOGI5MDY0LTNiNjQtNDNiMC1hMzI1LWE0YWM0ZTZlYzkwNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyNFQwMTU1MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODQyMWVmODVhNWQyMjkyMWYwZDExNjE0MDQ0NzE1MWU5ZGUxZjhmM2YwNjViMTJlYzQwZTM4MWRjM2E1Mjg1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mXWvr463EKRi7Ug3bwYL7BIIGvYhnua7etxEGF6-M0Q"> |
 
-| 딱딱함을 약간 줄이기 위해 메인에 있는 글귀에 타이핑하는 모션을 주었습니다.
+| 딱딱함을 줄이기 위해 메인에 있는 글귀에 타이핑하는 모션을 주었습니다.
 
 <br>
 
