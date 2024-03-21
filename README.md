@@ -15,7 +15,7 @@
 - [브레인 스토밍](https://www.figma.com/file/ZxMTA65g3AHpps8madhEzo/%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%9C%EC%83%81?type=whiteboard&node-id=0%3A1&t=7kQcNFmVooZpVx2K-1)
 
 - [와이어프레임 및 디자인](https://www.figma.com/file/O7j6WcaZVkyak8hxTMvUDa/%EC%9D%B4%EA%B7%9C%EB%82%A8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0%3A1&mode=design&t=N8KoW3Fnu1FH8tnR-1)
-- [리뉴얼 사이트](https://rbska9810.github.io/project02/) <br>
+- [리뉴얼 사이트](https://rbska9810.github.io/Korean-Library-Association/) <br>
 ## 💻 개발 환경
 
 - 개발 환경 : <img src="https://img.shields.io/badge/windows10-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
