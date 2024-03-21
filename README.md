@@ -43,7 +43,7 @@
 
 | 섹션2 : NEWS                                                                                              |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299142922-a4e33d09-1801-4bc7-aa7b-148e9b4d652f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQyOTIyLWE0ZTMzZDA5LTE4MDEtNGJjNy1hYTdiLTE0OGU5YjRkNjUyZi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xM2Q4YTRmNzJhOTQ2MDdjYmZkMmM3ZWM2NzA4ZjUwNzc0OWFhYmE1OTQ0ZmZhMTBjYjBlYjBmYjYyYjlhNTA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.u2vlR2hWP6MHc5-b9BoTNNBJ_tg27w-I6UwN8xmUMBk"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/65093ed4-f938-4fa4-bd9a-5a3eb5ff6dee"> |
 
 | 소식관련 글들을 탭으로 압축하였고, 기존에 홈페이지에 접속하면 뜨게되는 팝업창들을 모아 Swiper슬라이드를 구성했습니다.
 
@@ -51,7 +51,7 @@
 
 | 섹션3 : CULTURE                                                                                                           |
 | :----------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299144674-664dacf7-0caf-4b06-8122-e8aa7d4fab39.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ0Njc0LTY2NGRhY2Y3LTBjYWYtNGIwNi04MTIyLWU4YWE3ZDRmYWIzOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04YWZkNzY5Nzc2MWY2Y2RjMzU2MzFiNDA2NjUyZmE5YzE0NzdjYmQ1YWEyOWZlMDFkZGQ2ZWRiMTZkZmVkYjc1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I2TH7X05LQCXESNELLq7yi0fo_punCLNa4omv9ra4cc"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/67ceb4e1-69b1-4ec1-9412-95d2bbcef2ff"> |
 
 | 문화 섹션에는 방대한 양의 도서관문화 아이템들을 처리하기 위하여 탭기능과 Swiper슬라이드 기능을 합쳐 퍼블리싱 했습니다.
 
@@ -59,7 +59,7 @@
 
 | 섹션4 : MALL                                                                                                           |
 | :--------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299144712-69736dd7-9f16-4f5a-a80c-5dd3f9d4b104.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ0NzEyLTY5NzM2ZGQ3LTlmMTYtNGY1YS1hODBjLTVkZDNmOWQ0YjEwNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzAxZDZjOWRlMTdmYWNmZjc4NGUxMTE4ODg1MjMyOTc2N2I1NzM4YWUwYWU4OGNmODNhYzE0YTc3NzY5NTY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XTuk8fn8QXBJfgHvmYUErhB7WbQQGgVrZyGlr1oq9pw"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/ed1ae0ae-b60a-4fe1-9c76-82a56b67fcea"> |
 
 | 깔끔하게 보이기 위하여 Swiper슬라이드로 퍼블리싱 했습니다.
 
@@ -67,7 +67,7 @@
 
 | 섹션5 : FOOTER                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299144742-efa64dfb-8cb7-46d8-9b43-0274345c5834.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ0NzQyLWVmYTY0ZGZiLThjYjctNDZkOC05YjQzLTAyNzQzNDVjNTgzNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YjdhMDI0NzdlNjJmMTBiMTA1NDY2ZWI3MzFlYzQ2ZDQxYTQyYWM4ODZhZWNhMTYyODJhMGVlODRhM2NlYzk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IXjWkHxZcweJ9DIyz1wDdl0ur6gZ1ElKTQCR9aTn27Q"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/c81db7c4-6689-41a0-a3e6-6db31fd8f606"> |
 
 | 관련 기관 및 회원 기관들의 목록을 Swiper슬라이드로 퍼블리싱 했습니다.
 
@@ -77,7 +77,7 @@
 
 | 서브01 : 협회소식                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299145672-2530de65-5cb5-4087-8ad8-93f2f9849433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ1NjcyLTI1MzBkZTY1LTVjYjUtNDA4Ny04YWQ4LTkzZjJmOTg0OTQzMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OGZkODg1MjliYTVjYTI4MGQ3MmRjMGY5MTI1NzVmODM5Mzk0ZjIzNzU4NTRkYzQ0NzhjYTg4NGE3YzU0OGZhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.4Ebn3FL5RjqamZNJzQmQ8DyneFdEShqfSYjSuAo5u5w"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/08bbf069-8100-43d5-965e-4d02eac2106f"> |
 
 | 협회소식만들 보여주는 사이트 이기에 아래에 페이지네이션을 만들고 각 번호마다 보여지는것들을 다르게 설정하여 제작하였습니다.
 
@@ -85,6 +85,6 @@
 
 | 서브02 : 연혁                                                                                                       |
 | :---------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://private-user-images.githubusercontent.com/152961789/299145709-89b1a851-894d-458d-bf43-1b89c3aff4b0.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk3NzcyMTksIm5iZiI6MTcwOTc3NjkxOSwicGF0aCI6Ii8xNTI5NjE3ODkvMjk5MTQ1NzA5LTg5YjFhODUxLTg5NGQtNDU4ZC1iZjQzLTFiODljM2FmZjRiMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMwN1QwMjAxNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzMwM2Q5NTczMjExZTY2N2VkOTVlZGM3NGRiMzVjZjg4Y2EzMDYzYmU3MGJmMzI2MmVkYjQ2NzVkNTVhMjYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IB7j7AEHjPhu6V5q8MduxZ7IV5rk6Sn6m2VYaZw0oL4"> |
+| <img src="https://github.com/rbska9810/Korean-Library-Association/assets/152961789/d3e92a92-a15c-49d9-8894-52c5a2263762"> |
 
 | 년도 별로 스크롤 이벤트를 넣으면 좋을 것 같다 생각하여 스크롤을 했을 때 특정 구역으로 스크롤이 위치하게 되면 클래스가 추가,제거되도록 작업하였습니다.
